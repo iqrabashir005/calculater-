@@ -1,2 +1,8 @@
 Addition:
 cout<<2+5<<endl;
+subtraction:
+cout<<6-2<<endl;
+multiplication
+cout<<2*4<<endl;
+Division:
+cout<<4/2<<endl;
